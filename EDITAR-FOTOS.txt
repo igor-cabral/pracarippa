@@ -1,0 +1,12 @@
+FOTOS DO SITE — PRAÇA RIPPA
+
+As imagens atuais foram extraídas do HTML original para facilitar a edição.
+Substitua os arquivos mantendo os mesmos nomes para trocar as fotos sem mexer no código.
+
+Recomendação para fotos novas:
+- Hero: 2000–2560 px de largura, JPG/WebP de alta qualidade.
+- Galeria/pratos: 1400–2000 px de largura.
+- Evite imagens menores que o espaço onde serão exibidas.
+- Preserve o enquadramento: o CSS usa object-fit/cover em várias áreas.
+
+Para uma versão definitiva, prefira WebP ou AVIF além do JPG de fallback.

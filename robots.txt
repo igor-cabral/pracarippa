@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Troque pelo domínio definitivo antes da publicação.
+Sitemap: https://SEU-DOMINIO-AQUI/sitemap.xml
